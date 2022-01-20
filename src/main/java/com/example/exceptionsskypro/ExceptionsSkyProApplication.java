@@ -10,4 +10,5 @@ public class ExceptionsSkyProApplication {
         SpringApplication.run(ExceptionsSkyProApplication.class, args);
     }
 
+
 }
